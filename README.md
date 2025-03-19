@@ -13,7 +13,9 @@ To contribute, check out the issues labeled **good-first-issue** in our reposito
 
 We regularly add new issues, so there may be fresh opportunities to contribute!
 
-If you're interested in an issue, check the comments and assignees to ensure no one else is working on it. Then, comment on the issue to let us know you'd like to take it on.
+If you're interested in an issue, check the comments and assignees to ensure no one else is working on it. Then, comment on the issue to let us know you'd like to take it on, and be sure to mention which mentoring program you're participating in (GSOC or Outreachy).
+
+You may assign the issue to yourself, and a mentor will move it to the "in progress" state and add a label corresponding to your mentoring program.
 
 ## Contribution guidelines
 
